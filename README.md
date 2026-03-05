@@ -55,4 +55,4 @@ Sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir iss
 
 --- 
 
-*Este projeto foi criado com o auxílio de um Agente de IA.*
+

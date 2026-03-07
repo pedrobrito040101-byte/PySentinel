@@ -50,7 +50,7 @@ Sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir iss
 
 ## 📞 Contato
 
-*   **LinkedIn:** [Seu Perfil do LinkedIn Aqui](https://www.linkedin.com/in/pedro-henrique-de-brito-/)
+*   **LinkedIn:** (https://www.linkedin.com/in/pedro-henrique-de-brito-/)
 *   **Email:** pedro.brito040101@gmail.com
 
 --- 
